@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Montserrat:ital@1&display=swap');
+
 
 :root {
     --primary-color: white;
@@ -57,7 +57,6 @@ button {
     font-weight: 550;
     display: block;
     margin: 1rem auto;
-    box-shadow: 5px 8px 4px;
   }
 
   button:hover {
